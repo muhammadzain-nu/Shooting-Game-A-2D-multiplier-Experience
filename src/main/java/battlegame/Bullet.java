@@ -6,8 +6,8 @@ import java.util.List;
  * Bullet — A single projectile fired by the player.
  * Responsibility: Travel in a fixed direction; report when spent or blocked.
  *
- * Phase 3: isUsed() now also returns true when the bullet is inside an obstacle.
- */
+ *isUsed() returns true when the bullet is inside an obstacle.
+* */
 public class Bullet {
 
     public static final double RADIUS = 5;
