@@ -7,7 +7,7 @@ import java.util.Random;
  * Enemy — A single hostile unit that chases the player.
  * Responsibility: Store position/health and move toward the player each frame.
  *
- * Phase 3: Movement uses the same wall-slide trick as the player so enemies
+ * Movement uses the same wall-slide trick as the player so enemies
  *          don't clip through or freeze against obstacles.
  */
 public class Enemy {
