@@ -12,3 +12,7 @@ JDK 17+ is required.
 Use this command in terminal.
 
 .\apache-maven-3.9.6\bin\mvn.cmd clean javafx:run
+## Specifications:
++ Language: Java (JDK 17+)
++ Framework: JavaFX (Canvas + GraphicsContext)
++ Build Tool: Maven
