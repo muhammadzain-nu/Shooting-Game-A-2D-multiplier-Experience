@@ -17,7 +17,6 @@ import java.util.Set;
 /**
  * GameEngine — The heart of the game.
  *
- * Phase 5 additions:
  *   - Accepts a nullable NetworkManager (null = single-player)
  *   - Sends local state each frame when connected
  *   - Renders remote player (orange) and remote bullets (orange-red)
