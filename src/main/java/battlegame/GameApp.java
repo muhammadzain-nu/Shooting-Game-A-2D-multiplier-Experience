@@ -13,7 +13,7 @@ import java.util.Optional;
 
 /**
  * GameApp — JavaFX entry point.
- * Phase 5: Shows a launch menu (Single Player / Host / Join) before starting.
+ *Shows a launch menu (Single Player / Host / Join) before starting.
  */
 public class GameApp extends Application {
 
